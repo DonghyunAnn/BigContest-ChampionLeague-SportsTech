@@ -8,7 +8,10 @@
 
 ## 1. 제출 모델
 [notebook 폴더](https://github.com/DonghyunAnn/BigContest-ChampionLeague-SportsTech/tree/master/notebook)에 자세한 코드 첨부했습니다.
+- Tools: Python
 - ML Algorithm: Lasso Regression
+- Evaluation: MSE
+
 ## 2. 사용 데이터
 ### 제공데이터
 ```
