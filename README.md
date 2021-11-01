@@ -69,4 +69,5 @@
 - 타구 데이터르 
 ```
 
-[참고한 코드(데이콘)](https://dacon.io/competitions/official/62540/codeshare)
+## 참고사항
+참고한 코드 : https://dacon.io/competitions/official/62540/codeshare/657?page=1&dtype=recent
